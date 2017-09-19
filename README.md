@@ -1,4 +1,5 @@
-# Scarlett Webserver
+![alt tag](https://scarlett.cothesia.com/attachments/images/scarlett_logo.png)
+
 Scarlett Webserver repository
 
 # README #
